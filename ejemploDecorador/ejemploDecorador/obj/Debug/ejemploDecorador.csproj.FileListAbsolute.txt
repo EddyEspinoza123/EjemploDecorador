@@ -1,0 +1,19 @@
+C:\Users\USUARIO\source\repos\ejemploDecorador\ejemploDecorador\bin\Debug\ejemploDecorador.exe.config
+C:\Users\USUARIO\source\repos\ejemploDecorador\ejemploDecorador\bin\Debug\ejemploDecorador.exe
+C:\Users\USUARIO\source\repos\ejemploDecorador\ejemploDecorador\bin\Debug\ejemploDecorador.pdb
+C:\Users\USUARIO\source\repos\ejemploDecorador\ejemploDecorador\obj\Debug\ejemploDecorador.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\ejemploDecorador\ejemploDecorador\obj\Debug\ejemploDecorador.exe
+C:\Users\USUARIO\source\repos\ejemploDecorador\ejemploDecorador\obj\Debug\ejemploDecorador.pdb
+C:\Users\User\Desktop\leonel\Patrones\ejemploDecorador\ejemploDecorador\bin\Debug\ejemploDecorador.exe.config
+C:\Users\User\Desktop\leonel\Patrones\ejemploDecorador\ejemploDecorador\bin\Debug\ejemploDecorador.exe
+C:\Users\User\Desktop\leonel\Patrones\ejemploDecorador\ejemploDecorador\bin\Debug\ejemploDecorador.pdb
+C:\Users\User\Desktop\leonel\Patrones\ejemploDecorador\ejemploDecorador\obj\Debug\ejemploDecorador.csprojAssemblyReference.cache
+C:\Users\User\Desktop\leonel\Patrones\ejemploDecorador\ejemploDecorador\obj\Debug\ejemploDecorador.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\leonel\Patrones\ejemploDecorador\ejemploDecorador\obj\Debug\ejemploDecorador.exe
+C:\Users\User\Desktop\leonel\Patrones\ejemploDecorador\ejemploDecorador\obj\Debug\ejemploDecorador.pdb
+C:\Users\EVOTEC S.A\Desktop\3SEM\POO\2PARCIAL\ejemploDecorador\ejemploDecorador\bin\Debug\ejemploDecorador.exe.config
+C:\Users\EVOTEC S.A\Desktop\3SEM\POO\2PARCIAL\ejemploDecorador\ejemploDecorador\bin\Debug\ejemploDecorador.exe
+C:\Users\EVOTEC S.A\Desktop\3SEM\POO\2PARCIAL\ejemploDecorador\ejemploDecorador\bin\Debug\ejemploDecorador.pdb
+C:\Users\EVOTEC S.A\Desktop\3SEM\POO\2PARCIAL\ejemploDecorador\ejemploDecorador\obj\Debug\ejemploDecorador.csprojAssemblyReference.cache
+C:\Users\EVOTEC S.A\Desktop\3SEM\POO\2PARCIAL\ejemploDecorador\ejemploDecorador\obj\Debug\ejemploDecorador.exe
+C:\Users\EVOTEC S.A\Desktop\3SEM\POO\2PARCIAL\ejemploDecorador\ejemploDecorador\obj\Debug\ejemploDecorador.pdb
